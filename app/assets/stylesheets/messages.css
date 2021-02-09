@@ -121,11 +121,10 @@ message-content{
 }
 
 .form-submit {
-  font-size: 16px;
   background-color: #38AEF0;
+  border: none;
   color: white;
-  margin: 20px 40px 20px 0;
-  border: none
+  font-size: 16px;
   height: 50px;
   margin-left: 15px;
   padding: 0 20px;
